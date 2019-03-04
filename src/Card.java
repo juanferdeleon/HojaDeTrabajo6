@@ -30,7 +30,7 @@ public class Card {
 
     public String toString(){
         return " Card Name: " + this.cardName +
-                " Card Type " + this.cardType;
+                " Card Type: " + this.cardType;
     }
 
 }
