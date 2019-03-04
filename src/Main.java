@@ -146,6 +146,10 @@ public class Main {
                 "3. LinkedHashMap\n";
     }
 
+    /**
+     * Secondary Menu
+     * @return
+     */
     public static String secondaryMenu(){
         return "\n\tMENU\n\n" +
                 "1. Agregar carta a coleccion de Usuario\n" +
