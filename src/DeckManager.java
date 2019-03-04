@@ -1,7 +1,7 @@
 import java.util.Map;
 
 /**
- * @author Juanfer De Leon 
+ * @author Juanfer De Leon
  */
 public class DeckManager {
 

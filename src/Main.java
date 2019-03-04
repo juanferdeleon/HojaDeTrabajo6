@@ -86,7 +86,7 @@ public class Main {
                     System.out.println(DeckManager.showCleanDeck(userMap));
                     break;
                 case "5":
-                    System.out.println(DeckManager.showDeck(map));
+                    System.out.println(map);
                     break;
                 case "6":
                     System.out.println(DeckManager.showCleanDeck(map));
